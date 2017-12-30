@@ -35,3 +35,6 @@ E:\Tomi\Documents\Visual Studio 2015\Projects\ClusterAlarm\ClusterAlarm\obj\Debu
 E:\GitHub\ClusterETL\ClusterAlarm\ClusterAlarm\bin\Debug\ClusterAlarm.exe.config
 E:\GitHub\ClusterETL\ClusterAlarm\ClusterAlarm\obj\Debug\ClusterAlarm.exe
 E:\GitHub\ClusterETL\ClusterAlarm\ClusterAlarm\obj\Debug\ClusterAlarm.pdb
+E:\new github\ClusterAlarm\ClusterAlarm\bin\Debug\ClusterAlarm.exe.config
+E:\new github\ClusterAlarm\ClusterAlarm\obj\Debug\ClusterAlarm.exe
+E:\new github\ClusterAlarm\ClusterAlarm\obj\Debug\ClusterAlarm.pdb
